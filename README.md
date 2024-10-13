@@ -2,7 +2,7 @@
 ## Data Collection 
 A DataSet of Supply Chains used by the company DataCo Global was used for the analysis.
 From kaggel https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis 
-consist of CSV file.
+CSV file.
 ## Data Cleaning & Preparation 
 using power query 
 - Handling data types
@@ -11,7 +11,6 @@ using power query
 ## Data Modeling 
 - spliting data to six tables are orders, order items , products, departments,customers and dates
 - Create Star Schema which the fact table is Order Items and all other columns are the dimentions tables
-## Data Analysis 
 ## DAX Measures 
 - Average Inventory Cost per Product =  [Total inventory cost] /COUNT(Products[Category Id])
 - Backorders(BO) = DIVIDE(CALCULATE([Total Orders], Orders[Order Status]= "RETURNED") , [Total Orders])
@@ -41,6 +40,16 @@ using power query
 - Total inventory cost = SUM(Products[Inventory Cost Per Product])
 - Total Orders = DISTINCTCOUNT('Order Items'[Order Id])
 - Total Sales = SUM('Order Items'[Sales])
+- Inventory Cost Per Product = Products[Quantity]*Products[Inventory Cost Per Unit]
 ## Data Visualization 
 - Create report consist of siven pages are Home, Order Fulfillment, Shipping , Inventory,  Revenue , Units sold in each department and Overview 
-- use charts, cards,tables, filters and simple colors to visualize insights and KPIs 
+- use charts, cards,tables, filters and simple colors to visualize insights and KPIs
+## Insights & KPIs 
+- Order Fulfillment page 
+ 1-Fill Rate 94.91%
+ 2-Back Orders 11.53%
+ 3- 32% of total orders are completed and 2.5% canceled 
+ 4-The markets Pacific Asia and LATAM have the highest value in orders number
+ 5- The products category Cleats, Women`s Apperal and Indoor/Outdoor Games have the highest Orders and units sold 
+
+
