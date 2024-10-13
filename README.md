@@ -46,10 +46,21 @@ using power query
 - use charts, cards,tables, filters and simple colors to visualize insights and KPIs
 ## Insights & KPIs 
 - Order Fulfillment page 
- 1-Fill Rate 94.91%
- 2-Back Orders 11.53%
- 3- 32% of total orders are completed and 2.5% canceled 
- 4-The markets Pacific Asia and LATAM have the highest value in orders number
- 5- The products category Cleats, Women`s Apperal and Indoor/Outdoor Games have the highest Orders and units sold 
+ --Fill Rate 94.91%
+ -- 32% of total orders are completed and 2.5% canceled 
+ --The markets Pacific Asia and LATAM have the highest value in orders number
+ -- The products category Cleats, Women`s Apperal and Indoor/Outdoor Games have the highest Orders and units sold 
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
