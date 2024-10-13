@@ -1,4 +1,4 @@
-# Supply Chain Analysis 
+# Supply Chain Analysis for years 2015, 2016, 2017 and Januray 2018 
 ## Data Collection 
 A DataSet of Supply Chains used by the company DataCo Global was used for the analysis.
 From kaggel https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis 
@@ -46,10 +46,18 @@ using power query
 - use charts, cards,tables, filters and simple colors to visualize insights and KPIs
 ## Insights & KPIs 
 - Order Fulfillment page 
- --Fill Rate 94.91%
+  Fill Rate 94.91%
  -- 32% of total orders are completed and 2.5% canceled 
- --The markets Pacific Asia and LATAM have the highest value in orders number
- -- The products category Cleats, Women`s Apperal and Indoor/Outdoor Games have the highest Orders and units sold 
+ -- The markets Pacific Asia and LATAM have the highest value in orders number
+ -- The products category Cleats, Women`s Apperal and Indoor/Outdoor Games have the highest Orders and units sold
+- Shipping
+  -- On Time Delevery Rate 17.7%
+  -- Average of order cycle time real   4 
+  -- Average of order cycle time schedual 3
+  -- 56% of total orders are late delevery
+  -- The highest shipping mode is Standard Class
+  -- some of country all the orders deleverd late
+  -- Not all country use all Shipping modes 
 
 
 
