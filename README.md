@@ -75,7 +75,15 @@ using power query
      - Each department produce set of products and we can track sold units and sales for each department in any year through the report 
 
 
-
+## DASHBOARD
+![Home](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20040617.png)
+![order fulfellment](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20215458.png)
+![Shipping](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20040708.png)
+![Inventory](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20040750.png)
+![Revenue](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20040821.png)
+![Departments](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20215416.png)
+![Overview](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20040920.png)
+![Model](https://github.com/Saragamil3/Project-File/blob/main/Screenshot%202024-10-13%20032840.png)
 
 
 
