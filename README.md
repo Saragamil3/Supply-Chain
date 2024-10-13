@@ -63,16 +63,16 @@ using power query
     products Perfect Fitness Perfect Rip Deck, Nike Men's Free 5.0+ Running Shoe and O'Brien Men's Neoprene Life Vest
      - The highest 3 products in terms of inventory cost to sales ratio are Toys, CDs of rock and Team Golf Pittsburgh Steelers Putter Grip
  - Revenue
-       - Total Sales 35.5M
-       - Orders Get Loss 37%
-       - Net Profit 3.8%
-       - Profit Margin 11%
-       - in year 2015 : in first 6 months orders volume have loss more than orders volume got profit and, the reverse in the last 6 months
+     - Total Sales 35.5M
+     - Orders Get Loss 37%
+     - Net Profit 3.8%
+     - Profit Margin 11%
+     - in year 2015 : in first 6 months orders volume have loss more than orders volume got profit and, the reverse in the last 6 months
       cause this the highest net profit  Net profit in the last six months of the year , we can track the values for the other years through the dashboard...
 - Department
-        - the highest departments in terms of quantity of units sold are Apperal,Golf, Outdoors, Fanshop and footware
-        - the Fan Shop Department is the highest department get profit and sold units
-        - Each department produce set of products and we can track sold units and sales for each department in any year through the report 
+     - the highest departments in terms of quantity of units sold are Apperal,Golf, Outdoors, Fanshop and footware
+     - the Fan Shop Department is the highest department get profit and sold units
+     - Each department produce set of products and we can track sold units and sales for each department in any year through the report 
 
 
 
